@@ -1,6 +1,6 @@
 {
   "name": "kj-http-router",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "a simple http router",
   "main": "index.js",
   "scripts": {
